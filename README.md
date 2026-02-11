@@ -125,7 +125,7 @@ F --> G[Production 🚀]
 
 ---
 
-# 🔥 Skill Chips (Rounded)
+# 🔥 Skills
 
 ![NodeJS](https://img.shields.io/badge/NodeJS-282C34?style=for-the-badge&logo=node.js)
 ![GraphQL](https://img.shields.io/badge/GraphQL-282C34?style=for-the-badge&logo=graphql)
