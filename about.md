@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Kuldeep%20%7C%20DevOps%20Engineer%20%F0%9F%9A%80&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Kuldeep%20%7C%20DevOps%20Engineer&fontSize=48&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Cloud%20%7C%20GraphQL%20%7C%20Serverless%20%7C%20AI%20Integration&descAlignY=65&descAlign=50" />
 </p>
 
 <p align="center">
