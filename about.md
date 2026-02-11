@@ -34,14 +34,18 @@ Mindset: "You are not failing. You are being trained."
 
 # 🧠 Technology Stack
 
-## 🚀 Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,flask,graphql" />
+<h2 align="center">⚙️ Backend Systems & APIs</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,flask,graphql&perline=6" />
 </p>
 
-## 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript" />
+<br/>
+
+<h2 align="center">🎯 Frontend & UI Architecture</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts&perline=6" />
 </p>
 
 ## 🗄️ Databases
