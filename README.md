@@ -143,15 +143,15 @@ F --> G[Production 🚀]
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuldeep-engineer&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeep-engineer&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=developer-kuldeep&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-kuldeep&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
 # 📫 Contact
 
-📩 Zoho Mail: kuldeepkuldeep@zohomzil.in  
+📩 Zoho Mail: kuldeepkuldeep@zohomail.in  
 🔗 LinkedIn: https://www.linkedin.com/in/kuldeep-engineer/
 
 ---
