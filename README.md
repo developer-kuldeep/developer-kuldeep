@@ -1,4 +1,11 @@
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developer-kuldeep/developer-kuldeep/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/developer-kuldeep/developer-kuldeep/output/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/developer-kuldeep/developer-kuldeep/output/snake.svg">
+  </picture>
+</p>
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Kuldeep%20%7C%20DevOps%20Engineer&fontSize=48&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Cloud%20%7C%20GraphQL%20%7C%20Serverless%20%7C%20AI%20Integration&descAlignY=65&descAlign=50" />
 </p>
 
