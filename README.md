@@ -1,136 +1,172 @@
-<!-- 🚀 Futuristic Animated Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Kuldeep%20%7C%20Full%20Stack%20Engineer&fontSize=35&fontAlignY=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Kuldeep%20%7C%20DevOps%20Engineer%20%F0%9F%9A%80&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Engineer;Cloud+Architect+Mindset;Python+%7C+Angular+%7C+Node;Build+%E2%86%92+Automate+%E2%86%92+Scale" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DevOps+Engineer;Cloud+%7C+CI%2FCD+%7C+Automation;GraphQL+%7C+REST+%7C+Serverless;Build.+Automate.+Scale." />
+</p>
+
+---
+
+<h3 align="center">⚡ Full Stack • DevOps • Cloud • Automation ⚡</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kuldeep-engineer/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <img src="https://img.shields.io/badge/Zoho-Mail-Official-CB2027?style=for-the-badge" />
+
+  <!-- Facebook commented intentionally -->
+  <!-- <a href="#"><img src="FB_BADGE_LINK" /></a> -->
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🚀 Full-Stack & DevOps Engineer building scalable production systems.  
-⚙️ Specialized in modern web architecture & cloud deployments.  
-☁️ Strong in CI/CD, containerization & infrastructure automation.  
-🎓 Conduct Cloud & DevOps seminars for students.  
-📍 India  
+```yaml
+Name: Kuldeep
+Role: DevOps Engineer + Full Stack Developer
+Architecture: Scalable & Production Ready
+Speciality: Automation + Secure Deployments
+Mindset: "You are not failing. You are being trained."
+```
 
 ---
 
-# 🧠 Core Expertise
+# 🧠 Technology Stack
 
-## 🖥 Full Stack Development
-- Angular (Enterprise SPA Architecture)
-- Node.js (Express / NestJS)
-- Python (FastAPI / Flask / Django)
-- REST APIs & Microservices
-- JWT / OAuth Authentication
-- WebSockets & Real-Time Systems
+## 🚀 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,flask,graphql" />
+</p>
 
-## ☁️ DevOps & Cloud Engineering
-- Docker & Containerization
-- Kubernetes (Deployments & Scaling)
-- AWS (EC2, S3, IAM, RDS, Load Balancers)
-- Nginx Reverse Proxy
-- CI/CD Pipelines (GitHub Actions / Jenkins)
-- Linux Server Administration
+## 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript" />
+</p>
 
-## 🗄 Databases
-- PostgreSQL / MySQL
-- MongoDB
-- Redis
-- Performance Optimization
+## 🗄️ Databases
+
+| Category | Technologies |
+|----------|-------------|
+| 🟦 SQL | MySQL • PostgreSQL |
+| 🟩 NoSQL | MongoDB |
+| 🧠 Vector DB | Pinecone • FAISS |
+| ⚡ Cache | Redis |
 
 ---
 
-# 🛠 Tech Stack
+# 🌍 Server & Hosting
 
-## 🚀 Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-## ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-## ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- Apache2 Server  
+- Nginx  
+- Shared Hosting Deployment  
+- VPS Configuration  
+- Linux Administration  
+- SSL Installation  
+- DNS & Domain Management  
 
 ---
 
-# 🏗 What I Build
+# ☁️ Cloud & DevOps
 
-✅ Scalable SaaS Platforms  
-✅ Microservice Architectures  
-✅ Real-Time Applications  
-✅ DevOps Automation Pipelines  
-✅ Cloud-Native Deployments  
-✅ AI-Integrated Web Systems  
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,githubactions,git" />
+</p>
+
+- CI/CD Pipelines  
+- GitHub Actions  
+- Dockerized Applications  
+- Kubernetes Basics  
+- AWS EC2 / S3  
+- AWS Lambda (Serverless Architecture)  
+- Log Monitoring  
+- Performance Optimization  
+
+---
+
+# 🧩 APIs & CMS
+
+- REST APIs  
+- GraphQL APIs  
+- Strapi CMS  
+- JWT Authentication  
+- OAuth Integration  
+- Google APIs  
+- Mailchimp Integration  
+- Mandrill Email Automation  
+
+---
+
+# 💳 Payment Gateway Experience
+
+✔ Razorpay  
+✔ Stripe  
+✔ Webhook Handling  
+✔ Subscription Systems  
+✔ Secure Validation  
+
+---
+
+# 🔁 Dev Workflow
+
+```mermaid
+flowchart LR
+A[Code] --> B[Git Push]
+B --> C[CI/CD Pipeline]
+C --> D[Docker Build]
+D --> E[Deploy to VPS]
+E --> F[Apache2 / Nginx]
+F --> G[Production 🚀]
+```
+
+---
+
+# 🔥 Skill Chips (Rounded)
+
+![NodeJS](https://img.shields.io/badge/NodeJS-282C34?style=for-the-badge&logo=node.js)
+![GraphQL](https://img.shields.io/badge/GraphQL-282C34?style=for-the-badge&logo=graphql)
+![Apache2](https://img.shields.io/badge/Apache2-282C34?style=for-the-badge&logo=apache)
+![MySQL](https://img.shields.io/badge/MySQL-282C34?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282C34?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-282C34?style=for-the-badge&logo=mongodb)
+![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-282C34?style=for-the-badge&logo=aws-lambda)
+![Strapi](https://img.shields.io/badge/Strapi-282C34?style=for-the-badge&logo=strapi)
+![Docker](https://img.shields.io/badge/Docker-282C34?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-282C34?style=for-the-badge&logo=kubernetes)
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developer-kuldeep&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-kuldeep&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kuldeep-engineer&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeep-engineer&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-# 🔥 Contribution Graph
+# 📫 Contact
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=developer-kuldeep&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/kuldeep-engineer/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<!-- Facebook temporarily disabled
-<a href="https://facebook.com/YOUR_PAGE" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
--->
-
-<a href="mailto:kuldeephimachal83@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="mailto:kuldeepkuldeep@zohomzil.in">
-  <img src="https://img.shields.io/badge/Zoho-Mail-Contact-CB2027?style=for-the-badge&logo=maildotru&logoColor=white"/>
-</a>
-
-<a href="https://techcrazeonline.com" target="_blank">
-  <img src="https://img.shields.io/badge/Website-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</p>
+📩 Zoho Mail: kuldeepkuldeep@zohomzil.in  
+🔗 LinkedIn: https://www.linkedin.com/in/kuldeep-engineer/
 
 ---
 
-# 💡 Engineering Philosophy
+# ⚡ Engineering Philosophy
 
+> Automate everything possible.  
 > Build scalable systems.  
-> Automate what repeats.  
-> Optimize what matters.  
+> Deploy confidently.  
+> Keep learning.
 
 ---
 
 <p align="center">
-⚡ Full Stack × DevOps × Cloud ⚡  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=160&section=footer"/>
 </p>
+
+<!-- ================= END ================= -->
