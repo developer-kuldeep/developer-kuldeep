@@ -15,9 +15,6 @@
   <a href="https://www.linkedin.com/in/kuldeep-engineer/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-
-  <img src="https://img.shields.io/badge/Zoho-Mail-Official-CB2027?style=for-the-badge" />
-
   <!-- Facebook commented intentionally -->
   <!-- <a href="#"><img src="FB_BADGE_LINK" /></a> -->
 </p>
