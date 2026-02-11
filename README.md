@@ -164,9 +164,12 @@ F --> G[Production 🚀]
 > Keep learning.
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Code+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Scale;CI%2FCD+Automation+Expert;Serverless+%7C+Cloud+%7C+Microservices" />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=160&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=150&section=footer"/>
 </p>
 
 <!-- ================= END ================= -->
